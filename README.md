@@ -1,2 +1,2 @@
-# UnityGame.exe
-Unity 2D Platformer Game Project 2025 -> playable game.
+# unused branch
+game is on master branch -> proceed to master branch
